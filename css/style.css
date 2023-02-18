@@ -137,3 +137,6 @@ header{
 	z-index: 1;
 	position: sticky;
 }
+.date{
+	font-size: 27px;
+}
