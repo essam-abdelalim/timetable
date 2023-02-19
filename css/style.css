@@ -142,3 +142,7 @@ header{
 .date{
 	font-size: 27px;
 }
+p em{
+	font-size: larger;
+	font-family: 'Poppins';
+}
